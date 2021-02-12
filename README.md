@@ -1,6 +1,7 @@
 # RockPaperScissorsLizardSpock
 
 ### a game of rock paper scissors lizard Spock
+###### as seen on then big bang theory
 Scissors cuts paper
 Paper covers rock
 Rock crushes lizard
